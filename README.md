@@ -1,4 +1,4 @@
-# hello-world
+# Introduction to AP CSA on GitHub
 
 Hi AP CS Students!
 
